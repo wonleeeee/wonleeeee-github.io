@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99cc5d69.css",
+    "main.js": "/static/js/main.cd890c20.js",
+    "static/js/787.3178c215.chunk.js": "/static/js/787.3178c215.chunk.js",
+    "static/media/MaskGroup.png": "/static/media/MaskGroup.a6c6eca29600ed1e97a0.png",
+    "static/media/patient.png": "/static/media/patient.a1770e35d155137d6142.png",
+    "static/media/needhelp_highres.png": "/static/media/needhelp_highres.e425d42bb9a3a915762d.png",
+    "index.html": "/index.html",
+    "main.99cc5d69.css.map": "/static/css/main.99cc5d69.css.map",
+    "main.cd890c20.js.map": "/static/js/main.cd890c20.js.map",
+    "787.3178c215.chunk.js.map": "/static/js/787.3178c215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99cc5d69.css",
+    "static/js/main.cd890c20.js"
+  ]
+}
