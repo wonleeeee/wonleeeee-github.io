@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.54c80f2c.css",
-    "main.js": "./static/js/main.37e68330.js",
-    "static/js/787.3178c215.chunk.js": "./static/js/787.3178c215.chunk.js",
-    "static/media/MaskGroup.png": "./static/media/MaskGroup.a6c6eca29600ed1e97a0.png",
-    "static/media/patient.png": "./static/media/patient.a1770e35d155137d6142.png",
-    "static/media/consentform.pdf": "./static/media/consentform.e2f22dafacce921401cc.pdf",
-    "static/media/telep_logo_horizon.png": "./static/media/telep_logo_horizon.1b0ee3180b7a84c17094.png",
-    "static/media/needhelp_highres.png": "./static/media/needhelp_highres.e425d42bb9a3a915762d.png",
-    "index.html": "./index.html",
-    "main.54c80f2c.css.map": "./static/css/main.54c80f2c.css.map",
-    "main.37e68330.js.map": "./static/js/main.37e68330.js.map",
-    "787.3178c215.chunk.js.map": "./static/js/787.3178c215.chunk.js.map"
+    "main.css": "https://telepossible.com/static/css/main.54c80f2c.css",
+    "main.js": "https://telepossible.com/static/js/main.4df5d771.js",
+    "static/js/787.3178c215.chunk.js": "https://telepossible.com/static/js/787.3178c215.chunk.js",
+    "static/media/MaskGroup.png": "https://telepossible.com/static/media/MaskGroup.a6c6eca29600ed1e97a0.png",
+    "static/media/patient.png": "https://telepossible.com/static/media/patient.a1770e35d155137d6142.png",
+    "static/media/consentform.pdf": "https://telepossible.com/static/media/consentform.e2f22dafacce921401cc.pdf",
+    "static/media/telep_logo_horizon.png": "https://telepossible.com/static/media/telep_logo_horizon.1b0ee3180b7a84c17094.png",
+    "static/media/needhelp_highres.png": "https://telepossible.com/static/media/needhelp_highres.e425d42bb9a3a915762d.png",
+    "index.html": "https://telepossible.com/index.html",
+    "main.54c80f2c.css.map": "https://telepossible.com/static/css/main.54c80f2c.css.map",
+    "main.4df5d771.js.map": "https://telepossible.com/static/js/main.4df5d771.js.map",
+    "787.3178c215.chunk.js.map": "https://telepossible.com/static/js/787.3178c215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54c80f2c.css",
-    "static/js/main.37e68330.js"
+    "static/js/main.4df5d771.js"
   ]
 }
